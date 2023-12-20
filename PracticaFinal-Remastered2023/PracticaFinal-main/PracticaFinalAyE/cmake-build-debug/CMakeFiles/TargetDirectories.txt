@@ -1,0 +1,3 @@
+C:/Users/52552/CLionProjects/PracticaFinalAyE/cmake-build-debug/CMakeFiles/PracticaFinalAyE.dir
+C:/Users/52552/CLionProjects/PracticaFinalAyE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/52552/CLionProjects/PracticaFinalAyE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
